@@ -14,6 +14,17 @@ The goal of this homework is to:
 - Understand branching, merging, and managing source code in teams.
 
 ---
+## 📌 Why Configuration Management Matters
+
+Configuration management (CM) plays a vital role in software development.  
+It allows teams to:
+
+- Track and control changes to code and documentation.
+- Manage different versions of a project reliably.
+- Collaborate efficiently without overwriting each other's work.
+- Maintain consistency across development, testing, and deployment environments.
+
+By using tools like Git, developers can ensure traceability, accountability, and stability throughout the project lifecycle.
 
 ## 🛠️ Tools Used
 
