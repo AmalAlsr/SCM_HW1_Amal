@@ -1,6 +1,7 @@
 # ✨ SCM1_Amal: Software Configuration Management ✨
 
-> Welcome to my repository 
+> Welcome to my repository
+---
 > This project demonstrates key concepts in **Software Configuration Management** using **Git** and **GitHub**.
 
 ---
